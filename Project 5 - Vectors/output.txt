@@ -1,0 +1,30 @@
+Name: Parker Padgett
+T-Number: T01260735
+Major: Computer Science
+Advisor Name: IDK
+GPA: 3.5
+Credit Hours: 36
+Expected Graduaation Year: 2024
+Hardest Class: Circuits 2
+Easiest Class: Intro to Mechanical Engineering
+
+Name: Haylee Scott
+T-Number: T654132165
+Major: Health Administration
+Advisor Name: IDK part 2
+GPA: 2.6
+Credit Hours: 52
+Expected Graduaation Year: 2023
+Hardest Class: Math
+Easiest Class: English
+
+Name: Steve Rogers
+T-Number: T123465789
+Major: Bad ass
+Advisor Name: IDK PART 3
+GPA: 3.0
+Credit Hours: 156
+Expected Graduaation Year: 1998
+Hardest Class: German
+Easiest Class: Amercan!
+
